@@ -1,9 +1,9 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Greetings,%20GitHub%20Wanderer!&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="25" height="32" />, I'm Thaarmah</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="25" height="32" />, I'm Thaarmah <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Thaarmah's GIF" width="90" height="120"></h1>
 <h3 align="center">A passionate fullstack developer  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Medium-Dark%20Skin%20Tone.png" alt="Heart Hands Medium-Dark Skin Tone" width="25" height="23" /></h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2NzIzMzQsIm5iZiI6MTcwNjY3MjAzNCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDAzMzM1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0ZGI3MzcwOWZjYzg0ZGZkZTQ0MjQxZTdhNGVjZTM4N2YwMmY2NzE1ZDAxNmEyMmQwMzQzYmRkNzQ4YzRmZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.kPgDNoM50mtXBvj6r2o_TsBq3TGIS3EFUQGZA0j4Vks">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif">
 
 
 
