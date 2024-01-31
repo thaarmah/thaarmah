@@ -1,5 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Greetings,%20GitHub%20Wanderer!&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
+![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="25" height="32" />, I'm Thaarmah <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Thaarmah's GIF" width="90" height="120"></h1>
 <h3 align="center">A passionate fullstack developer  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Medium-Dark%20Skin%20Tone.png" alt="Heart Hands Medium-Dark Skin Tone" width="25" height="23" /></h3>
