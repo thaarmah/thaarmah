@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thaarmah&label=Profile%20views&color=0e75b6&style=flat" alt="thaarmah" /> </p>
 
-- 🔭 I’m currently working on **building AR/AP Confirmation software in a finance company**
+- 🔭 I’m currently working on **building AR/AP Confirmation software in my company**
 
 - 🌱 I’m currently learning **T3 stack & Devops**
 
